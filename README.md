@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calvincurry22&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=calvincurry22)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **calvincurry22/calvincurry22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 github stats tracker markdown below:
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=calvincurry22)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calvincurry22&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
