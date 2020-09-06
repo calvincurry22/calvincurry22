@@ -1,5 +1,5 @@
-<h1 align="center">Hi There :wave:</h1>
-<h3 align="center">I'm Calvin Curry - Husband, Father, Lover of all Marvel villains, Software Developer :sunglasses:</h3>
+<h1 align="center">Hi, I'm Calvin:wave:</h1>
+<h3 align="center">Husband, Father, Lover of all Marvel villains, Software Developer :sunglasses:</h3>
 <br>
 
 ### Connect with me
