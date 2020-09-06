@@ -1,5 +1,10 @@
+<div align="center">
+<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width=200px height=200px>
+ </div>
 
-<img align="center" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" height=200px width=500px>
+**I'm Calvin Curry - Husband, Father, Software Developer** :sunglasses:
+
+<br>
 
 **Github Stats**
 
