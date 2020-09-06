@@ -2,8 +2,9 @@
 <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width=200px height=200px>
  </div>
 
-**I'm Calvin Curry - Husband, Father, Software Developer** :sunglasses:
-
+<div align="center">
+<h3>I'm Calvin Curry - Husband, Father, Lover of all things Marvel, Software Developer :sunglasses:</h3>
+</div>
 <br>
 
 **Github Stats**
