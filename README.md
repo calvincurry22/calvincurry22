@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width=200px height=200px>
- </div>
+<h1 align="center">Hi There :wave:</h1>
 
-<div align="center">
-<h3>I'm Calvin Curry - Husband, Father, Lover of all things Marvel, Software Developer :sunglasses:</h3>
-</div>
+<h3 align="center">I'm Calvin Curry - Husband, Father, Lover of all things Marvel, Software Developer :sunglasses:</h3>
 <br>
 
 **Github Stats**
