@@ -10,7 +10,7 @@
 <a href="https://calvincurry22.github.io">https://calvincurry22.github.io</a>
 <br>
 
-[<img align="left" alt="email | XDA Developers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/mail-dot-ru.svg" />]
+<img align="left" alt="email | XDA Developers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/mail-dot-ru.svg" />
 <a href="mailto:calvincurry22@gmail.com">calvincurry22@gmail.com</a>
 
 ### Github Stats
