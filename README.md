@@ -4,10 +4,14 @@
 
 ### Connect with me
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  <a href="https://linkedin.com/in/calvinmcurry">https://linkedin.com/in/calvinmcurry</a>
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  <a href="https://linkedin.com/in/calvinmcurry">https://linkedin.com/in/calvinmcurry</a>
                                                                                                                                                                                                                                                                       
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="portfolio | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://calvincurry22.github.io">https://calvincurry22.github.io</a>
+<br>
+
+[<img align="left" alt="email | XDA Developers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/mail-dot-ru.svg" />][website]
+<a href="mailto:calvincurry22@gmail.com">calvincurry22@gmail.com</a>
 <br>
 
 ### Github Stats
