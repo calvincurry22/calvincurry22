@@ -1,4 +1,4 @@
-
+<img src="https://github.com/calvincurry22/calvincurry22/blob/master/CC-Covergif.gif" />
 
 <h2 align="center">
   Hi, I'm Calvin :wave:<br>
