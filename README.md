@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Calvin:wave:</h1>
-<h3 align="center">Husband, Father, Lover of Marvel Super Villains, Software Developer :sunglasses:</h3>
-<br>
+<img src="https://github.com/calvincurry22/calvincurry22/blob/master/CALVIN%20CURRY%20(2).gif" />
 
 ### Connect with me
 
