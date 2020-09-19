@@ -1,4 +1,4 @@
-<img src="https://github.com/calvincurry22/calvincurry22/blob/master/CALVIN%20CURRY%20(2).gif" />
+<img src="https://github.com/calvincurry22/calvincurry22/blob/master/CCBordered.gif" />
 
 ### Connect with me
 
