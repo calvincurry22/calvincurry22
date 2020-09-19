@@ -1,9 +1,9 @@
+<img src="https://github.com/calvincurry22/calvincurry22/blob/master/CC-GithubCover.gif" />
 
-
-  <h2 align="center">
-    Hi, I'm Calvin :wave:<br>
-    Husband, Father, Lover of Marvel Super Villains, Software Developer
-  </h2>
+<h2 align="center">
+  Hi, I'm Calvin :wave:<br>
+  Husband, Father, Lover of Marvel Super Villains, Software Developer
+</h2>
  
 
 ### Connect with me
