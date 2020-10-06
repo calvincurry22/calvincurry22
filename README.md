@@ -2,7 +2,7 @@
 
 <h2 align="center">
   Hi, I'm Calvin :wave:<br>
-  Husband, Father, Lover of Marvel Super Villains, Software Developer
+  Husband, Father, Lover of Marvel Super Villains :smiling_imp:, Software Developer
 </h2>
 
 ### Github Stats
